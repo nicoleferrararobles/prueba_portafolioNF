@@ -1,0 +1,38 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+header {
+  background-image: url('../img/bg-hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem;
+}
+
+.carousel-indicators {
+  top: 100px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.supernav {
+  background: #CD5C5C;
+}
+
+.rosado {
+  text-align: center;
+  color: #CD5C5C;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  margin top: 5px;
+}
+
+.trabajitos {
+  background: #FFA07A;
+}
