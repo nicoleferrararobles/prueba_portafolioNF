@@ -1,6 +1,7 @@
 body {
   font-family: 'Open Sans', 'regular';
   font-size: 0.9em;
+  font-weight: 400;
 }
 
 
@@ -63,5 +64,20 @@ header {
 
 .pinky {
   background: #eeeeee;
+}
+
+
+
+.final a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 15px;
+}
+
+.barra {
+  border-width: 90%;
+  height: 90%;
+  border-style: solid;
+  color: #eeeeee;
 
 }
