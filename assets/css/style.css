@@ -1,5 +1,6 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'regular';
+  font-size: 0.9em;
 }
 
 
@@ -8,6 +9,8 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  margin-top: 50px;
+  padding-top: 100px;
   padding-bottom: 10rem;
 }
 
@@ -28,11 +31,37 @@ header {
 .rosado {
   text-align: center;
   color: #CD5C5C;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans','regular';
   font-weight: 400;
-  margin top: 5px;
+  margin-top: 50px;
+  padding-bottom: 1px;
 }
 
 .trabajitos {
   background: #FFA07A;
+}
+
+.laboral img {
+  margin-left: 40%;
+  max-width: 20%;
+}
+
+.laboral {
+    display: inline-block;
+    text-align: right;
+}
+
+.titulo {
+  text-align: center;
+  color: #CD5C5C;
+  font-family: 'Open Sans', 'bold';
+  font-weight: 700;
+  margin top: 20px;
+  padding-top: 80px;
+
+}
+
+.pinky {
+  background: #eeeeee;
+
 }
